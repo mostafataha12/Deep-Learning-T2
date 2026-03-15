@@ -115,22 +115,3 @@ So the model predicts a value close to:
 ```python
 3.8
 ```
-
-## Files
-
-- `README.md` → explanation of the LSTM numerical example
-- Colab notebook cells → implementation in separate blocks
-
-## Notes
-
-- This implementation is written using only Python and the `math` library.
-- It is useful for understanding **how LSTM works numerically step by step**.
-- It is not using TensorFlow, PyTorch, or any deep learning framework.
-
-## Author note
-
-This example is suitable for:
-- assignments
-- Colab demonstrations
-- learning LSTM calculations manually
-- explaining gate-by-gate computations
